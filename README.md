@@ -1,4 +1,4 @@
-# DG-Net-implementation-Re-id-
+# DG-Net_implementation (Re-id)
 
 "joint discriminative and generative learning for person re-identification" \\ implementation with pytorch
 \\
